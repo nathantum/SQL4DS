@@ -14,3 +14,9 @@ GROUP BY
 	user_id
 HAVING
 	COUNT(post_id)>1
+
+
+
+Let  Y∼F(4,5).
+Instructions:
+Compute  P(1<Y<10) by integration of the PDF.
