@@ -7,6 +7,8 @@
 -- in the profits. Display the result from the highest to the 
 -- lowest total profit.
 
+-- Solution --
+
 SELECT
   drug,
   total_sales - cogs AS total_profit
